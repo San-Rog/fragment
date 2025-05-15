@@ -1,2 +1,1 @@
-pyautogui
-streamlit
+PyAutoGUI=0.9.54
