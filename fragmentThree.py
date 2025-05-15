@@ -1,5 +1,5 @@
 import streamlit as st
-import pyautogui
+import PyAutoGUI 
 
 if "clicks" not in st.session_state:
     st.session_state.clicks = 0
